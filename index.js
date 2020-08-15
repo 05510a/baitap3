@@ -8,3 +8,4 @@ var btap2 = function(){
 var btap3 = function(){
     console.log( done bài tập buổi 3)
 }
+console.log('done all');
