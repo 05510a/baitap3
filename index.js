@@ -5,3 +5,6 @@ var btap1 = function(){
 var btap2 = function(){
     console.log(done bài tập buổi 2)
 }
+var btap3 = function(){
+    console.log( done bài tập buổi 3)
+}
